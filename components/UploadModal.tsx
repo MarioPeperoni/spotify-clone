@@ -102,7 +102,7 @@ const UploadModal = () => {
 
   return (
     <Modal
-      title="Add a banger"
+      title="Add some bangers"
       description="Upload an music file"
       isOpen={uploadModal.isOpen}
       onChange={onChange}
